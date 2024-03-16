@@ -1,5 +1,9 @@
 
-# Life Care
+# Life Care 
+
+![image](https://user-images.githubusercontent.com/112754393/229432509-a06f89c6-dda0-435f-ae8e-38af008d4ab1.png)
+
+
 
 Life Care Hospital is one of the renowned and leading multispecialty hospitals comprising more than five topmost specialties
 
@@ -11,6 +15,7 @@ Life Care Hospital is one of the renowned and leading multispecialty hospitals c
 - Responsive
 - Authorization
 - Authentication
+- Google OAuth
 
 
 ## Tech Stack
@@ -100,6 +105,20 @@ https://lifecare-mwbk.onrender.com/
 
 ![App Screenshot](https://i.imgur.com/vNWL4lR.jpeg)
 ![App Screenshot](https://i.imgur.com/BFSWz9I.jpeg)
+
+
+## Workflow Diagram
+![image](https://user-images.githubusercontent.com/112754393/229429364-4f9e7424-d5b2-4386-aad8-b4f7f22c19bf.png)
+
+## System Architecture
+![image](https://i.imgur.com/oJW6QQe.jpeg)
+
+
+## ER Diagram
+![drawSQL-lifecare-export-2023-04-03](https://user-images.githubusercontent.com/112754547/229438041-993e6356-22cd-49b0-8905-6867cd4f36e9.png)
+
+
+
 
 
 ## Authors

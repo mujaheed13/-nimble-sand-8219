@@ -7,7 +7,6 @@ import Slider from 'react-slick';
 // import assets from "../"
 import poster1 from "../assets/poster1.jpg"
 import poster2 from "../assets/poster2.jpg"
-import poster3 from "../assets/poster3.jpg"
 // Settings for the slider
 const settings = {
     dots: true,
@@ -37,7 +36,6 @@ export default function Carousel() {
         'https://www.asterhospitals.in/sites/default/files/2021-01/about-us-new.jpg',
         `${poster1}`,
         `${poster2}`,
-        `${poster3}`,
     ];
 
     return (
